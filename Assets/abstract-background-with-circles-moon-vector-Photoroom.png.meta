@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b4c530b16a55fc348874f61e0ad77f6d
+guid: bb5ebca6dd347f44483c19ba45d7eda7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4237140444910105288
-    second: _Hit_0
+      213: 5182854074238197167
+    second: abstract-background-with-circles-moon-vector-Photoroom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: _Hit_0
+      name: abstract-background-with-circles-moon-vector-Photoroom_0
       rect:
         serializedVersion: 2
-        x: 36
+        x: 38
         y: 0
-        width: 30
-        height: 39
+        width: 388
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c2be4a09c85dca30800000000000000
-      internalID: 4237140444910105288
+      spriteID: fad57a112523de740800000000000000
+      internalID: 5182854074238197167
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      _Hit_0: 4237140444910105288
+      abstract-background-with-circles-moon-vector-Photoroom_0: 5182854074238197167
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
