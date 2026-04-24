@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 16d3eb6653e0ad641a5d3368ca8bd7a1
+  productGUID: 17973c8ca72af1a4ea60afbd1a7fe2da
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Final_Luminescene
+  productName: Lumi
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -604,14 +604,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Final_Luminescene
+  metroPackageName: Lumi
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Final_Luminescene
+  metroApplicationDescription: Lumi
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -682,11 +682,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 62837afa-a5db-42d3-89ee-1aa9bd132934
+  cloudProjectId: 335a9144-d508-44d2-8c2a-ea6a426dbc50
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Final_Luminescene
-  organizationId: overworld2020
+  projectName: Lumi
+  organizationId: toonendergold
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
