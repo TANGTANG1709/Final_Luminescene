@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b4c530b16a55fc348874f61e0ad77f6d
+guid: cbf8d62eec3b58e47bc44fbf1fa83a8d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4237140444910105288
-    second: _Hit_0
+      213: -491134216187263767
+    second: Blacksmith-PNG_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: _Hit_0
+      name: Blacksmith-PNG_0
       rect:
         serializedVersion: 2
-        x: 36
-        y: 0
-        width: 30
-        height: 39
+        x: 39
+        y: 57
+        width: 802
+        height: 578
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c2be4a09c85dca30800000000000000
-      internalID: 4237140444910105288
+      spriteID: 9e44e1358042f29f0800000000000000
+      internalID: -491134216187263767
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      _Hit_0: 4237140444910105288
+      Blacksmith-PNG_0: -491134216187263767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: b4c530b16a55fc348874f61e0ad77f6d
+guid: 9315640add7f639438e9f3cc54a836c2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4237140444910105288
-    second: _Hit_0
+      213: 2049336102570354091
+    second: ZZZ-PNG-Cutout_0
+  - first:
+      213: 3483459242170499373
+    second: ZZZ-PNG-Cutout_1
+  - first:
+      213: -38476977881189608
+    second: ZZZ-PNG-Cutout_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +106,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: _Hit_0
+      name: ZZZ-PNG-Cutout_1
       rect:
         serializedVersion: 2
-        x: 36
+        x: 0
         y: 0
-        width: 30
-        height: 39
+        width: 720
+        height: 540
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c2be4a09c85dca30800000000000000
-      internalID: 4237140444910105288
+      spriteID: d21cf1f79bbb75030800000000000000
+      internalID: 3483459242170499373
       vertices: []
       indices: 
       edges: []
@@ -125,7 +131,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bc5eb377ada25ac4da24f35a6780d59a
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +141,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      _Hit_0: 4237140444910105288
+      ZZZ-PNG-Cutout_0: 2049336102570354091
+      ZZZ-PNG-Cutout_1: 3483459242170499373
+      ZZZ-PNG-Cutout_2: -38476977881189608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
